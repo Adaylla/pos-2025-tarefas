@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+    <prato id="P01">
+        <nomePrato>
+            <nome>Feijoada</nome>
+        </nomePrato>
+        <descricao>Esse é um prato tradicional do nosso cardápio.</descricao>
+        <ingredientes>
+            Feijão, Arroz, Carne e Coentro
+        </ingredientes>
+        <preco>R$35,00</preco>
+        <calorias>670Kcal</calorias>
+        <tempo>35 minutos</tempo>
+    </prato>
+
+    <prato id="P02">
+        <nomePrato>
+            <nome>File com Fritas</nome>
+        </nomePrato>
+        <descricao>Esse é um prato top 2 do nosso cardápio.</descricao>
+        <ingredientes>
+            Carne de Sol, cebola, óleo e batata frita.
+        </ingredientes>
+        <preco>R$58,00</preco>
+        <calorias>890Kcal</calorias>
+        <tempo>20 minutos</tempo>
+    </prato>
+
+    <prato id="P03">
+        <nomePrato>
+            <nome>Macarrão no molho branco</nome>
+        </nomePrato>
+        <descricao>Prato mais pedido.</descricao>
+        <ingredientes>
+           Macarrão, Creme de leite, manteiga e cebola.
+        </ingredientes>
+        <preco>R$40,00</preco>
+        <calorias>570Kcal</calorias>
+        <tempo>35 minutos</tempo>
+    </prato>
+
+    <prato id="P04">
+        <nomePrato>
+            <nome>Carne no molho madeira</nome>
+        </nomePrato>
+        <descricao>Novidade no nosso cardápio.</descricao>
+        <ingredientes>
+            Carne, molho madeira pronto e creme de leite. 
+        </ingredientes>
+        <preco>R$30,00</preco>
+        <calorias>520Kcal</calorias>
+        <tempo>40 minutos</tempo>
+    </prato>
+
+    <prato id="P05">
+        <nomePrato>
+            <nome>Almoço</nome>
+        </nomePrato>
+        <descricao>Esse é o prato favorito do nosso cardápio.</descricao>
+        <ingredientes>
+            Feijão, Arroz, Farofa e Carne.
+        </ingredientes>
+        <preco>R$15,00</preco>
+        <calorias>450Kcal</calorias>
+        <tempo>20 minutos</tempo>
+    </prato>
+
+</cardapio>

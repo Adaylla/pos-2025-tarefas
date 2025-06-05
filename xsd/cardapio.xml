@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cardapio>
+    <prato id="P01">
+        <nome>
+            Feijoada
+        </nome>
+        <descricao>Esse é um prato tradicional do nosso cardápio.</descricao>
+        <ingredientes>
+            Feijão, Arroz, Carne e Coentro
+        </ingredientes>
+        <preco>R$35,00</preco>
+        <calorias>670Kcal</calorias>
+        <tempoPreparo>35 minutos</tempoPreparo>
+    </prato>
+
+    <prato id="P02">
+        <nome>
+            File com Fritas
+        </nome>
+        <descricao>Esse é um prato top 2 do nosso cardápio.</descricao>
+        <ingredientes>
+            Carne de Sol, cebola, óleo e batata frita.
+        </ingredientes>
+        <preco>R$58,00</preco>
+        <calorias>890Kcal</calorias>
+        <tempoPreparo>20 minutos</tempoPreparo>
+    </prato>
+
+    <prato id="P03">
+        <nome>
+            Macarrão no molho branco
+        </nome>
+        <descricao>Prato mais pedido.</descricao>
+        <ingredientes>
+           Macarrão, Creme de leite, manteiga e cebola.
+        </ingredientes>
+        <preco>R$40,00</preco>
+        <calorias>570Kcal</calorias>
+        <tempoPreparo>35 minutos</tempoPreparo>
+    </prato>
+
+    <prato id="P04">
+        <nome>
+            Carne no molho madeira
+        </nome>
+        <descricao>Novidade no nosso cardápio.</descricao>
+        <ingredientes>
+            Carne, molho madeira pronto e creme de leite. 
+        </ingredientes>
+        <preco>R$30,00</preco>
+        <calorias>520Kcal</calorias>
+        <tempoPreparo>40 minutos</tempoPreparo>
+    </prato>
+
+    <prato id="P05">
+        <nome>
+            Almoço
+        </nome>
+        <descricao>Esse é o prato favorito do nosso cardápio.</descricao>
+        <ingredientes>
+            Feijão, Arroz, Farofa e Carne.
+        </ingredientes>
+        <preco>R$15,00</preco>
+        <calorias>450Kcal</calorias>
+        <tempoPreparo>20 minutos</tempoPreparo>
+    </prato>
+
+</cardapio>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<imobiliaria xmlns="http://imobiliaria.org"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://imobiliaria.org imobiliaria.xsd">
 
-<imobiliaria>
     <imovel id="I01">
         <descricao>Chácara em Pipa RN</descricao>
         <proprietario>
@@ -16,7 +18,7 @@
             <numero>2345</numero>
         </endereco>
         <caracteristicas>
-            <tamanho>95m²</tamanho>
+            <tamanho>95</tamanho>
             <numQuartos>3</numQuartos>
             <numBanheiros>2</numBanheiros>
         </caracteristicas>
@@ -36,7 +38,7 @@
             <numero>870</numero>
         </endereco>
         <caracteristicas>
-            <tamanho>60m²</tamanho>
+            <tamanho>60</tamanho>
             <numQuartos>1</numQuartos>
             <numBanheiros>1</numBanheiros>
         </caracteristicas>
@@ -57,7 +59,7 @@
             <numero>8908</numero>
         </endereco>
         <caracteristicas>
-            <tamanho>130m²</tamanho>
+            <tamanho>130</tamanho>
             <numQuartos>5</numQuartos>
             <numBanheiros>3</numBanheiros>
         </caracteristicas>
@@ -78,7 +80,7 @@
             <numero>855</numero>
         </endereco>
         <caracteristicas>
-            <tamanho>90m²</tamanho>
+            <tamanho>90</tamanho>
             <numQuartos>3</numQuartos>
             <numBanheiros>1</numBanheiros>
         </caracteristicas>
@@ -98,7 +100,7 @@
             <cidade>Goiânia</cidade>
         </endereco>
         <caracteristicas>
-            <tamanho>105m²</tamanho>
+            <tamanho>105</tamanho>
             <numQuartos>2</numQuartos>
             <numBanheiros>2</numBanheiros>
         </caracteristicas>

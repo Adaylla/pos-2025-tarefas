@@ -1,0 +1,113 @@
+{
+    "imobiliaria": {
+      "imovel": [
+            {
+            "id": "I01",
+            "descricao": "Chácara em Pipa RN",
+            "proprietario": {
+                "nome": "Ana Maria",
+                "email": "maria.ana@gmail.com",
+                "telefone": {
+                "1": "(84) 98890-8767",
+                "2": "(84) 96786-0905"
+                }
+            },
+            "endereco": {
+                "rua": "Avenida Céu Azul",
+                "bairro": "Azul do céu",
+                "cidade": "Tibal do Sul Rio Grande do Norte",
+                "numero": 2345
+            },
+            "caracteristicas": {
+                "tamanho": "95m²",
+                "numQuartos": 3,
+                "numBanheiros": 2
+            },
+            "valor": 2300000
+            },
+            {
+            "id": "I02",
+            "descricao": "Apartamento com vista para o mar",
+            "proprietario": {
+                "nome": "João Santana",
+                "telefone": "(84) 98787-9354"
+            },
+            "endereco": {
+                "rua": "Avenida Beira Mar",
+                "bairro": "Ponta Negra",
+                "cidade": "Natal RN",
+                "numero": 870
+            },
+            "caracteristicas": {
+                "tamanho": "60m²",
+                "numQuartos": 1,
+                "numBanheiros": 1
+            },
+            "valor": 800000
+            },
+            {
+            "id": "I03",
+            "descricao": "Apartamento de luxo",
+            "proprietario": {
+                "nome": "Suzana Oliveira",
+                "email": "oliver.su@gmail.com",
+                "telefone": "(11) 98790-3045"
+            },
+            "endereco": {
+                "rua": "Almeida dias",
+                "bairro": "Alphaville",
+                "cidade": "São Paulo",
+                "numero": 8908
+            },
+            "caracteristicas": {
+                "tamanho": "130m²",
+                "numQuartos": 5,
+                "numBanheiros": 3
+            },
+            "valor": 5200000
+            },
+            {
+            "id": "I04",
+            "descricao": "Casa Antiga",
+            "proprietario": {
+                "nome": "Luana tavares",
+                "email": "luana.tavares@gmail.com",
+                "telefone": "(11) 90876-9854"
+                
+            },
+            "endereco": {
+                "rua": "Avenida Bandeirantes",
+                "bairro": "Osasco",
+                "cidade": "São Paulo",
+                "numero": 855
+            },
+            "caracteristicas": {
+                "tamanho": "90m²",
+                "numQuartos": 3,
+                "numBanheiros": 1
+            },
+            "valor": 1000000
+            },
+            {
+            "id": "I05",
+            "descricao": "Casa básica",
+            "proprietario": {
+                "nome": "Marina Loures",
+                "email": "m.loures@gmail.com",
+                "telefone": "(62) 99004-8907"
+            },
+            "endereco": {
+                "rua": "São João",
+                "bairro": "Madeiras",
+                "cidade": "Goiânia"
+            },
+            "caracteristicas": {
+                "tamanho": "105m²",
+                "numQuartos": 2,
+                "numBanheiros": 2
+            },
+            "valor": 1900000
+            }
+        ]
+    }
+}

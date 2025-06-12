@@ -1,0 +1,46 @@
+{
+    "cardapio": {
+        "prato": [
+            {"id": "P01",
+            "nome": "Feijoada",
+            "descricao": "Esse é um prato tradicional do nosso cardápio.",
+            "ingredientes": "Feijão, Arroz, Carne e Coentro",
+            "preco": "R$35,00",
+            "calorias": "670Kcal",
+            "tempoPreparo": "35 minutos"
+            },
+            {"id": "P02",
+            "nome": "File com Fritas",
+            "descricao": "Esse é um prato top 2 do nosso cardápio.",
+            "ingredientes": "Carne de Sol, cebola, óleo e batata frita.",
+            "preco": "R$58,00",
+            "calorias": "890Kcal",
+            "tempoPreparo": "20 minutos"
+            },
+            {"id": "P03",
+            "nome": "Macarrão no molho branco",
+            "descricao": "Prato mais pedido.",
+            "ingredientes": "Macarrão, Creme de leite, manteiga e cebola.",
+            "preco": "R$40,00",
+            "calorias": "570Kcal",
+            "tempoPreparo": "35 minutos"
+            },
+            {"id": "P04",
+            "nome": "Carne no molho madeira",
+            "descricao": "Novidade no nosso cardápio.",
+            "ingredientes": " Carne, molho madeira pronto e creme de leite.",
+            "preco": "R$30,00",
+            "calorias": "520Kcal",
+            "tempoPreparo": "40 minutos"
+            },
+            {"id": "P05",
+            "nome": "Almoço",
+            "descricao": "Esse é o prato favorito do nosso cardápio.",
+            "ingredientes": "Feijão, Arroz, Farofa e Carne.",
+            "preco": "R$15,00",
+            "calorias": "450Kcal",
+            "tempoPreparo": "20 minutos"
+            }      
+        ]
+    }
+}

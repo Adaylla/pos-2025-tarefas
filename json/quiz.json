@@ -1,0 +1,72 @@
+{
+    "quiz": [
+        {
+            "disciplina": "Biologia",
+            "professor": {
+                "nome": "Isa",
+                "matricula": "908674674"
+            },
+            "turma": "InfoWeb4M",
+            "data": "2005-06-09"
+        },
+        {
+            "questoes": [
+                {
+                    "enunciado": "Podemos organizar o sistema nervoso humano dividindo-o em duas partes: o sistema nervoso central (SNC) e o sistema nervoso periférico (SNP). Com base no seu conhecimento sobre o tema, marque a alternativa que indica corretamente as partes do SNC.",
+                    "pontuacao": 5,
+                    "alternativas": [
+                        "medula espinhal e encéfalo.",
+                        "encéfalo e gânglios.",
+                        "medula espinhal e nervos.",
+                        "nervos e encéfalo."
+                    ],
+                    "correta": "medula espinhal e encéfalo."
+                },
+                {
+                    "enunciado": "Qual dos seguintes comportamentos envolve maior número de órgãos do sistema nervoso?",
+                    "pontuacao": 7,
+                    "alternativas": [
+                        "Levantar a perna quando o médico toca com martelo no joelho do paciente.",
+                        "Preencher uma ficha de identificação.",
+                        "Retirar bruscamente a mão ao tocar um objeto muito quente.",
+                        "Piscar com a aproximação brusca de um objeto."
+                    ],
+                    "correta": "Preencher uma ficha de identificação."
+                },
+                {
+                    "enunciado": "O ato reflexo é uma resposta rápida e involuntária que ocorre devido à ação independente",
+                    "pontuacao": 9,
+                    "alternativas": [
+                        "do tronco encefálico.",
+                        "da medula espinal.",
+                        "dos gânglios.",
+                        "do cerebelo."
+                    ],
+                    "correta": "da medula espinal."
+                },
+                {
+                    "enunciado": "O cerebelo é uma importante região do encéfalo, relacionada com:",
+                    "pontuacao": 3,
+                    "alternativas": [
+                        "a respiração e a deglutição.",
+                        "o controle dos batimentos cardíacos.",
+                        "a coordenação de movimentos e o equilíbrio do corpo.",
+                        "a memória, inteligência, emoção e razão."
+                    ],
+                    "correta": "a coordenação de movimentos e o equilíbrio do corpo."
+                },
+                {
+                    "enunciado": "O sistema nervoso central processa informações recebidas de todo o nosso corpo. São componentes do sistema nervoso central:",
+                    "pontuacao": 3,
+                    "alternativas": [
+                        "Nervos e encéfalo.",
+                        "Nervos e medula espinhal.",
+                        "Medula espinhal e encéfalo.",
+                        "Medula óssea e nervos."
+                    ],
+                    "correta": "Medula espinhal e encéfalo."
+                }
+            ]
+        }
+    ]
+}

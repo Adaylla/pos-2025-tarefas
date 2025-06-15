@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<imobiliaria>
+    <imovel id="I01">
+        <descricao>Chácara em Pipa RN</descricao>
+        <proprietario>
+            <nome>Ana Maria</nome>
+            <email>maria.ana@gmail.com</email>
+            <telefone>(84) 98890-8767</telefone>
+            <telefone>(84) 96786-0905</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Avenida Céu Azul</rua>
+            <bairro>Azul do céu</bairro>
+            <cidade>Tibal do Sul Rio Grande do Norte</cidade>
+            <numero>2345</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>95m²</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>2.300.000</valor>
+    </imovel>
+
+    <imovel id="I02">
+        <descricao>Apartamento com vista para o mar</descricao>
+        <proprietario>
+            <nome>João Santana</nome>
+            <telefone>(84) 98787-9354</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Avenida Beira Mar</rua>
+            <bairro>Ponta Negra</bairro>
+            <cidade>Natal RN</cidade>
+            <numero>870</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>60m²</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>800.000</valor>
+    </imovel>
+
+    <imovel id="I03">
+        <descricao>Apartamento de luxo</descricao>
+        <proprietario>
+            <nome>Suzana Oliveira</nome>
+            <email>oliver.su@gmail.com</email>
+            <telefone>(11) 98790-3045</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Almeida dias</rua>
+            <bairro>Alphaville</bairro>
+            <cidade>São Paulo</cidade>
+            <numero>8908</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>130m²</tamanho>
+            <numQuartos>5</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>5.200.000</valor>
+    </imovel>
+
+    <imovel id="I04">
+        <descricao>Casa Antiga</descricao>
+        <proprietario>
+            <nome>Luana tavares</nome>
+            <email>luana.tavares@gmail.com</email>
+            <telefone>(11) 90876-9854</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Avenida Bandeirantes</rua>
+            <bairro>Osasco</bairro>
+            <cidade>São Paulo</cidade>
+            <numero>855</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>90m²</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>1.000.000</valor>
+    </imovel>
+
+    <imovel id="I05">
+        <descricao>Casa básica</descricao>
+        <proprietario>
+            <nome>Marina Loures</nome>
+            <email>m.loures@gmail.com</email>
+            <telefone>(62) 99004-8907</telefone>
+        </proprietario>
+        <endereco>
+            <rua>São joão</rua>
+            <bairro>Madeiras</bairro>
+            <cidade>Goiânia</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>105m²</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>1.900.000</valor>
+    </imovel>
+</imobiliaria>

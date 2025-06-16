@@ -1,8 +1,8 @@
 from xml.dom.minidom import parse
 
-doc = parse("cardapio.xml")
+dom = parse("cardapio.xml")
 
-cardapio = doc.documentElement
+cardapio = dom.documentElement
 
 pratos = cardapio.getElementsByTagName("prato")
 

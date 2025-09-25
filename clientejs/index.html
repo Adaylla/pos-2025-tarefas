@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Placeholder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>JSON Placeholder</h1>
+            <p class="subtitle">Explore usuários e suas tarefas</p>
+        </header>
+        
+        <div class="content">
+            <div class="panel">
+                <h2>Usuários</h2>
+                <div class="list-container">
+                    <ul id="userList">
+                        <li class="loading">Carregando usuários...</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="panel">
+                <h2>Tarefas do Usuário</h2>
+                <div class="list-container">
+                    <ul id="todoList">
+                        <li>Selecione um usuário para ver suas tarefas</li>
+                    </ul>
+                </div>
+                <div class="stats" id="todoStats"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
